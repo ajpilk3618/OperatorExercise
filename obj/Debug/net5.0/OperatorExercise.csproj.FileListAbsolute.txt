@@ -1,0 +1,16 @@
+C:\Users\apilk\source\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.exe
+C:\Users\apilk\source\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.deps.json
+C:\Users\apilk\source\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.runtimeconfig.json
+C:\Users\apilk\source\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.runtimeconfig.dev.json
+C:\Users\apilk\source\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.dll
+C:\Users\apilk\source\repos\OperatorExercise\bin\Debug\net5.0\ref\OperatorExercise.dll
+C:\Users\apilk\source\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.pdb
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.dll
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\ref\OperatorExercise.dll
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.pdb
+C:\Users\apilk\source\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.genruntimeconfig.cache
